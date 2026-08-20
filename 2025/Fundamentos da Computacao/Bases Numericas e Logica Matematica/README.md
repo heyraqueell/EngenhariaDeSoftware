@@ -1,4 +1,4 @@
-### **Breve Histórico**
+## **Breve Histórico**
 
 - **Ábaco:** Calculadora para operações algébricas elementares (Mesopotâmia, 2400 a.C.).
 - **Calculadoras Mecânicas:**
